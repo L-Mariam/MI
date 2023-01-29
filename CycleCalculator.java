@@ -1,8 +1,4 @@
-/**
- * CycleCalculator class which uses Colins top secret rules to calculate the 
- * estimated duration of a cycle given certain information about the cyclist, 
- * the route and the weather.
- */
+
 public class CycleCalculator
 {
 	/* constants,  which  are  properties  whose  values  do  not 
